@@ -2,7 +2,7 @@ self.__uv$config = {
     prefix: '/service/',
 
     /* Bare server URL */ 
-    bare: 'https://tomp.app',
+    wisp: "wss://wisp.mercurywork.shop/",
     
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
